@@ -33,14 +33,23 @@ Abre tu navegador en http://localhost:5173
 ## 📁 Estructura del proyecto
 
 vue-todo-app/
+
 ├── src/
+
 │   ├── components/
+
 │   │   └── TodoList.vue
+
 │   ├── styles/
+
 │   │   └── custom.css
+
 │   ├── App.vue
+
 │   └── main.js
+
 ├── index.html
+
 └── package.json
 
 ## 📦 Build
