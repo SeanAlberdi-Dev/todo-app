@@ -49,4 +49,4 @@ vue-todo-app/
 npm run build
 ```
 
-MIT ©SeanAlberdi-Dev
+MIT © [Seán Alberdi](https://github.com/SeanAlberdi-Dev)
